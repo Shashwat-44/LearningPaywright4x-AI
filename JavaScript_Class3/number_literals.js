@@ -51,3 +51,6 @@ console.log(typeof tiny);
 let colours_hex = 0xFF0000;
 console.log(colours_hex);
 console.log(typeof colours_hex);
+
+console.log(0b1010 + 0o10 + 0xA) 
+console.log([1, , 2, 3, , 4, ].length);
